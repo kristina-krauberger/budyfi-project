@@ -1,4 +1,4 @@
-# BudyFi – Financial Microlearning Hub 🧠
+# BudyFi – Financial Microlearning Hub 
 
 **Status:** 🚧 *Work in Progress*  
 BudyFi is a full-stack web application built with **Flask, React, JavaScript, Python, and SQLite**, designed as a “Duolingo for Finance”.  
