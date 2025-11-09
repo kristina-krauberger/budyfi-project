@@ -8,8 +8,8 @@ It combines **educational content, gamification, habit stacking,** and **progres
 
 ## 🔗 Project Overview
 This repository serves as the main hub for BudyFi.  
-- [Frontend Repository]([https://github.com/kristina-krauberger/budifi-frontend])
-- [Backend Repository]([https://github.com/kristina-krauberger/budifi-backend])
+- [Frontend Repository](https://github.com/kristina-krauberger/budifi-frontend)
+- [Backend Repository](https://github.com/kristina-krauberger/budifi-backend)
 
 ---
 
