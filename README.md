@@ -8,8 +8,8 @@ It combines **educational content, gamification, habit stacking,** and **progres
 
 ## 🔗 Project Overview
 This repository serves as the main hub for BudyFi.  
-- [Frontend Repository]([https://github.com/dein-username/buddyfile-frontend](https://github.com/kristina-krauberger/budifi-frontend))
-- [Backend Repository]([https://github.com/dein-username/buddyfile-backend](https://github.com/kristina-krauberger/budifi-backend))
+- [Frontend Repository]([https://github.com/kristina-krauberger/budifi-frontend])
+- [Backend Repository]([https://github.com/kristina-krauberger/budifi-backend])
 
 ---
 
@@ -24,9 +24,11 @@ This repository serves as the main hub for BudyFi.
 ## 💡 Screenshots
 
 App Flow: *in development*
+
 <img width="5781" height="2308" alt="app_flow_v1" src="https://github.com/user-attachments/assets/5c10e90f-0985-4dcb-849d-8c63b3372547" />
 
 ER Diagramm:
+
 <img width="575" height="410" alt="er_diagramm_v1" src="https://github.com/user-attachments/assets/b3ccb173-ed08-470d-b95f-41bee6dff409" />
 
 ---
