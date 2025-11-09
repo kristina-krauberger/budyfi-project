@@ -14,11 +14,15 @@ This repository serves as the main hub for BudyFi.
 ---
 
 ## 🧱 Tech Stack
-- Flask • Python • SQLAlchemy • REST API *in development*   
-- React • JavaScript • HTML • CSS *in development* 
+**Core Technologies**
+- Flask • Python • SQLAlchemy • REST API *(in development)*  
+- React • JavaScript • HTML • CSS *(in development)*  
 - SQLite Database  
-- User Authentication *planned*  
-- Gamified Learning Interface *in development*
+
+**Planned Features**
+- User Authentication & Authorization *(JWT planned)*  
+- Gamified Learning Interface *(progress tracking, badges, streaks)*  
+- API Integration for financial data *(future version)*  
 
 ---
 ## 💡 Screenshots
@@ -27,19 +31,29 @@ App Flow: *in development*
 
 <img width="5781" height="2308" alt="app_flow_v1" src="https://github.com/user-attachments/assets/5c10e90f-0985-4dcb-849d-8c63b3372547" />
 
-ER Diagramm:
+ER Diagramm: *in development*
 
 <img width="575" height="410" alt="er_diagramm_v1" src="https://github.com/user-attachments/assets/b3ccb173-ed08-470d-b95f-41bee6dff409" />
 
 ---
 
 ## 🎯 Roadmap
-- [ ] Set up database models  
-- [ ] Build REST API endpoints  
-- [ ] Connect React frontend  
-- [ ] Add user login and progress tracking  
-- [ ] Integrate gamification layer (habit stacking, badges, streaks)
-- [ ] Deploy live demo
+### MVP
+- [ ] Flask backend with 1–2 models (User, Lesson)
+- [ ] CRUD functionality for lessons  
+- [ ] REST API connection to React frontend  
+- [ ] Responsive UI (React + Tailwind planned)  
+- [ ] Deployment (Render / Vercel)  
+- [ ] Documentation and code quality (ESLint, Prettier)
+
+### V2 (Stretch Goals)
+- [ ] Authentication with JWT  
+- [ ] Server-state management (React Query or Redux Toolkit)  
+- [ ] Light/Dark Mode  
+- [ ] Form validation (Yup / Zod)  
+- [ ] Convert to TypeScript  
+- [ ] Testing (Jest + Testing Library)  
+- [ ] Git automation (Husky pre-commit hooks)
 
 ---
 
