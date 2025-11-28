@@ -47,13 +47,7 @@ ER Diagramm: *in development*
 - [ ] Documentation and code quality (ESLint, Prettier)
 
 ### V2 (Stretch Goals)
-- [ ] Authentication with JWT  
-- [ ] Server-state management (React Query or Redux Toolkit)  
-- [ ] Light/Dark Mode  
-- [ ] Form validation (Yup / Zod)  
-- [ ] Convert to TypeScript  
-- [ ] Testing (Jest + Testing Library)  
-- [ ] Git automation (Husky pre-commit hooks)
+*in development*
 
 ---
 
