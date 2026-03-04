@@ -7,7 +7,7 @@ It combines educational content, gamification principles, and progress tracking 
 
 ---
 
-## 🗂 Repository Structure
+## Repository Structure
 This repository serves as the main hub for BudyFi.  
 
 ### Frontend Repository
@@ -96,7 +96,7 @@ Design principles:
 
 ---
 
-## 🔌 API Design
+## API Design
 
 Key endpoints:
 
@@ -144,7 +144,7 @@ The architecture ensures scalability and avoids large monolithic components.
 
 ---
 
-## 📊 Screenshots & Architecture
+## Screenshots & Architecture
 
 ### App Flow
 
