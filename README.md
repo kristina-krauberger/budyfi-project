@@ -37,7 +37,7 @@ Video → Quiz → Summary → Next Lesson
 ## Interactive Quiz System
 
 <p align="center">
-  <img src="quiz.png" width="750" />
+  <img src="quiz_2.png" width="750" />
 </p>
 
 ---
