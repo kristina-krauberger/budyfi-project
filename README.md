@@ -2,6 +2,11 @@
 
 Full-Stack Portfolio Project (Work in Progress)
 
+<p align="center">
+  <img src="landing_page.png" width="900" />
+</p>
+
+
 BudyFi is a full-stack web application inspired by Duolingo, designed to make financial education structured, engaging, and scalable through microlearning.
 It combines educational content, gamification principles, and progress tracking to help users build financial confidence — one lesson at a time.
 
