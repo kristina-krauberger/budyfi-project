@@ -25,7 +25,7 @@ Flask REST API handling authentication, courses, and lesson progress.
 Frontend (Production):
 https://buddyfi-2.vercel.app/
 
-⚠️ Backend currently runs locally for MVP demonstration. (Work in Progress)
+Backend currently runs locally for MVP demonstration. (Work in Progress)
 
 ---
 
