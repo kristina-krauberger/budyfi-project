@@ -12,6 +12,48 @@ It combines educational content, gamification principles, and progress tracking 
 
 ---
 
+## User Dashboard
+
+<p align="center">
+  <img src="dashboard.png" width="850" />
+</p>
+
+Users can track their learning progress across multiple finance courses with real-time progress bars and completion tracking.
+
+---
+
+##  Lesson Flow (Duolingo-Inspired)
+
+<p align="center">
+  <img src="lesson.png" width="850" />
+</p>
+
+Each lesson follows a structured learning path:
+
+Video → Quiz → Summary → Next Lesson
+
+---
+
+## Interactive Quiz System
+
+<p align="center">
+  <img src="quiz.png" width="750" />
+</p>
+
+---
+
+## Completion Feedback
+
+<p align="center">
+  <img src="summary.png" width="750" />
+</p>
+
+---
+
+Positive reinforcement strengthens learning motivation and habit formation.
+
+Users answer questions after each lesson to reinforce knowledge and unlock the next stage.
+
 ## Repository Structure
 This repository serves as the main hub for BudyFi.  
 
