@@ -12,6 +12,19 @@ It combines educational content, gamification principles, and progress tracking 
 
 ---
 
+## Repository Structure
+This repository serves as the main hub for BudyFi.  
+
+### Frontend Repository
+React-based UI, routing, and client-side logic.
+- [Frontend Repository](https://github.com/kristina-krauberger/budifi-frontend)
+
+### Backend Repository
+Flask REST API handling authentication, courses, and lesson progress.
+- [Backend Repository](https://github.com/kristina-krauberger/budifi-backend)
+  
+---
+
 ## User Dashboard
 
 <p align="center">
@@ -48,22 +61,9 @@ Video → Quiz → Summary → Next Lesson
   <img src="summary.png" width="750" />
 </p>
 
----
-
 Positive reinforcement strengthens learning motivation and habit formation.
 
 Users answer questions after each lesson to reinforce knowledge and unlock the next stage.
-
-## Repository Structure
-This repository serves as the main hub for BudyFi.  
-
-### Frontend Repository
-React-based UI, routing, and client-side logic.
-- [Frontend Repository](https://github.com/kristina-krauberger/budifi-frontend)
-
-### Backend Repository
-Flask REST API handling authentication, courses, and lesson progress.
-- [Backend Repository](https://github.com/kristina-krauberger/budifi-backend)
 
 ---
 
