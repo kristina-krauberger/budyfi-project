@@ -148,11 +148,15 @@ The architecture ensures scalability and avoids large monolithic components.
 
 ### App Flow
 
-![App Flow](assets/app_flow_v1.png)
+![App Flow](app-flow-schema.png)
 
 ### ER Diagram
 
-![ER Diagram](assets/er_diagram_v1.png)
+![ER Diagram](er_diagramm_v3.png)
+
+## Tech Stack
+
+![Tech Stack](tech-stack.png)
 
 ---
 
