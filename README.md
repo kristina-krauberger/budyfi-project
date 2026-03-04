@@ -57,6 +57,8 @@ BudyFi democratizes financial education through:
 
 ## High-Level Architecture
 
+![App Flow](app-flow-schema.png)
+
 The application follows a modular full-stack architecture:
 
 - React frontend (Vite + Tailwind)
@@ -74,6 +76,8 @@ Inspired by Duolingo-style microlearning navigation.
 ---
 
 ## Data Model & Storage Strategy
+
+![ER Diagram](er_diagramm_v3.png)
 
 The backend uses relational data modeling with foreign keys, designed for scalability
 
@@ -125,6 +129,8 @@ The architecture ensures scalability and avoids large monolithic components.
 
 ## Tech Stack
 
+![Tech Stack](tech-stack.png)
+
 ### Frontend
 - React 18
 - Vite
@@ -141,22 +147,6 @@ The architecture ensures scalability and avoids large monolithic components.
 - SQLite
 - JWT
 - dotenv
-
----
-
-## Screenshots & Architecture
-
-### App Flow
-
-![App Flow](app-flow-schema.png)
-
-### ER Diagram
-
-![ER Diagram](er_diagramm_v3.png)
-
-## Tech Stack
-
-![Tech Stack](tech-stack.png)
 
 ---
 
