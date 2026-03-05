@@ -31,7 +31,7 @@ Flask REST API handling authentication, courses, and lesson progress.
 ## User Dashboard
 
 <p align="center">
-  <img src="dashboard.png" width="850" />
+  <img src="dashboard.png" width="900" />
 </p>
 
 Users can track their learning progress across multiple finance courses with real-time progress bars and completion tracking.
