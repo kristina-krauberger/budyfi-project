@@ -1,4 +1,4 @@
-# BudyFi – Financial Microlearning Platform
+# Buddy.Fi – Financial Microlearning Platform
 
 Full-Stack Portfolio Project (Work in Progress)
 
@@ -7,7 +7,7 @@ Full-Stack Portfolio Project (Work in Progress)
 </p>
 
 
-BudyFi is a full-stack web application inspired by Duolingo, designed to make financial education structured, engaging, and scalable through microlearning.
+Buddy.Fi is a full-stack web application inspired by Duolingo, designed to make financial education structured, engaging, and scalable through microlearning.
 It combines educational content, gamification principles, and progress tracking to help users build financial confidence — one lesson at a time.
 
 This is an MVP version currently running with mock data for demonstration purposes.
@@ -16,7 +16,7 @@ Focus: full-stack architecture, learning flow logic, and scalable system design.
 ---
 
 ## Repository Structure
-This repository serves as the main hub for BudyFi.  
+This repository serves as the main hub for Buddy.Fi.  
 
 ### Frontend Repository
 React-based UI, routing, and client-side logic.
@@ -115,7 +115,7 @@ Many learners need structure, clarity, and self-paced guidance instead of inform
 
 ## The Mission
 
-BudyFi democratizes financial education through:
+Buddy.Fi democratizes financial education through:
 
 - Microlearning principles  
 - Gamified lesson flow  
