@@ -60,7 +60,7 @@ This architecture allows new courses to be added in the database without changin
 ##  Lesson Flow (Duolingo-Inspired)
 
 <p align="center">
-  <img src="lesson.png" width="850" />
+  <img src="lesson.png" width="900" />
 </p>
 
 Each lesson follows a structured learning path:
@@ -73,7 +73,7 @@ Lesson progression is controlled via completion state logic and dynamic routing 
 ## Interactive Quiz System
 
 <p align="center">
-  <img src="quiz_2.png" width="750" />
+  <img src="quiz_2.png" width="900" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ Lesson progression is controlled via completion state logic and dynamic routing 
 ## Completion Feedback
 
 <p align="center">
-  <img src="summary.png" width="750" />
+  <img src="summary.png" width="900" />
 </p>
 
 Positive reinforcement strengthens learning motivation and habit formation.
