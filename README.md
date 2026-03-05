@@ -10,6 +10,9 @@ Full-Stack Portfolio Project (Work in Progress)
 BudyFi is a full-stack web application inspired by Duolingo, designed to make financial education structured, engaging, and scalable through microlearning.
 It combines educational content, gamification principles, and progress tracking to help users build financial confidence — one lesson at a time.
 
+This is an MVP version currently running with mock data for demonstration purposes.
+Focus: full-stack architecture, learning flow logic, and scalable system design.
+
 ---
 
 ## Repository Structure
@@ -35,6 +38,25 @@ Users can track their learning progress across multiple finance courses with rea
 
 ---
 
+## Courses
+
+<p align="center">
+  <img src="course.png" width="900" />
+</p>
+
+The Courses view dynamically renders all available courses fetched from the REST API.
+
+Each course card is generated from relational database data and includes:
+
+- Course metadata (title, description, order)
+- Associated lessons
+- User-specific completion state (via LessonProgress)
+- Dynamic routing via `/course/:courseId`
+
+This architecture allows new courses to be added in the database without changing frontend logic.
+
+---
+
 ##  Lesson Flow (Duolingo-Inspired)
 
 <p align="center">
@@ -44,6 +66,7 @@ Users can track their learning progress across multiple finance courses with rea
 Each lesson follows a structured learning path:
 
 Video → Quiz → Summary → Next Lesson
+Lesson progression is controlled via completion state logic and dynamic routing (`/course/:courseId/lesson/:lessonNumber`), ensuring users unlock content sequentially.
 
 ---
 
@@ -72,7 +95,7 @@ Users answer questions after each lesson to reinforce knowledge and unlock the n
 Frontend (Production):
 https://buddyfi-2.vercel.app/
 
-Backend currently runs locally for MVP demonstration. (Work in Progress)
+Backend runs locally for MVP demonstration (architecture focus over deployment setup).
 
 ---
 
@@ -155,8 +178,8 @@ POST   /api/register
 POST   /api/login
 GET    /api/me
 GET    /api/courses
-GET    /api/user//progress
-PUT    /api/user//progress
+GET    /api/user/<int:user_id>/progress
+PUT    /api/user/<int:user_id>/progress
 
 JWT authentication structure is implemented and prepared for route protection.
 
