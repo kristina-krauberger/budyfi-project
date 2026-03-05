@@ -3,7 +3,7 @@
 Full-Stack Portfolio Project (Work in Progress)
 
 <p align="center">
-  <img src="landing_page.png" width="900" />
+  <img src="landing_2.png" width="900" />
 </p>
 
 
